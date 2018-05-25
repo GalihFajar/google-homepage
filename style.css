@@ -1,0 +1,90 @@
+.header {
+  text-align: right;
+  font-family: arial, sans-serif;
+  font-color: black;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 14px;
+}
+
+
+.header a {
+  text-decoration: none;
+  font-color: black;
+}
+
+a:visited{
+  font-color: blue;
+}
+
+.sign-in{
+  color: white;
+  border: #4285f4;
+  background-color: #4285f4;
+  display: inline-block;
+  padding: 6px;
+  border-radius: 2px;
+  text-align: center;
+}
+
+.pseudo-heading {
+  word-spacing: 2px;
+}
+
+.google-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  padding-top: 105px;
+}
+
+.search-box {
+  display: block;
+  margin-left:420px;
+  margin-right: auto;
+  width: 30%;
+}
+
+.search-box .pseudo-search-box {
+  width: 120%;
+}
+
+.main-button {
+  display: block;
+  margin-left:510px;
+  padding: 10px;
+}
+
+.main-button button {
+  padding: 2px;
+  margin: 3px;
+}
+
+
+.footer {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  background-color: #f2f2f2;
+  line-height: 40px;
+  font-family: arial;
+  border: 1px #e4e4e4 solid;
+  color: rgba(0,0,0,.54);
+}
+
+.footer .upper-footer {
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.lower-footer .first-section span{
+  padding-right:5px;
+  padding-left: 0;
+}
+
+
+.lower-footer .first-section {
+  float: right;
+  margin-right: 10px;
+}

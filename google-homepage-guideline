@@ -1,0 +1,19 @@
+**The Header**
+Gmail, Images, Sign In <-- Button
+
+**Main Content**
+--Google Logo <-- Image w/ hyperlink to google.com
+--Search Box <-- Form
+--Google Search, I'm Feeling Lucky <-- Button
+--Google offered in : <-- Plain text
+  Indonesia, Basa Bali <-- Hyperlink
+
+**The Footer**
+--1 column and 2 rows box/grid <-- grey-ish box
+  --First Row
+	--Indonesia <-- Plain text
+  --Second Row
+	--Advertising, Business, About <-- Hyperlink
+	--Privacy, Terms, Settings <-- Hyperlink
+
+
